@@ -5,6 +5,7 @@ This Python library is a simple wrapper for the fantastic [TMAP library](https:/
 ## Installation
 
 ```bash
+git clone 
 
 ```
 
